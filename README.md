@@ -1,5 +1,6 @@
 # FootballApps
-Aplikasi ini adalah project submission dari beasiswa MADE dicoding 2018.
+Aplikasi ini menampilkan jadwal pertandingan dan hasil pertandingan sepakbola.
+Project ini mrupakan submission dari beasiswa KADE dicoding 2018.
 
 ## Screenshoot
 
