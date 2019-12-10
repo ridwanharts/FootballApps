@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string-array name="club_name">
+        <item>Barcelona</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+
+    </string-array>
+    <string-array name="club_desc">
+        <item>Barcelona adalah salah satu club sepakbola yang berasal dari negara Spanyol</item>
+        <item>Real Madrid adalah salah satu club sepakbola yang berasal dari negara Spanyol</item>
+        <item>Bayern Munchen salah satu club sepakbola yang berasal dari negara Jerman</item>
+        <item>Manchester City salah satu club sepakbola yang berasal dari negara Inggris</item>
+        <item>Manchester United salah satu club sepakbola yang berasal dari negara Inggris</item>
+        <item>Chelsea adalah salah satu club sepakbola yang berasal dari negara Inggris</item>
+        <item>AC Milan adalah salah satu club sepakbola yang berasal dari negara Italia</item>
+        <item>Arsenal adalah salah satu club sepakbola yang berasal dari negara Inggris</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">%1$s\n%2$s</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+</resources>
