@@ -15,12 +15,10 @@ Project ini mrupakan submission dari beasiswa KADE dicoding 2018.
 
 ## Feature Project
 
-* Menggunakan API themoviedb (https://www.themoviedb.org/)
-* SQLite database untuk menyimpan favourite movie
-* Library Picasso untuk menampilkan gambar
+* Menggunakan API themoviedb (https://www.thesportsdb.com/api.php)
+* SQLite database untuk menyimpan favourite pertandingan
+* Library Glide untuk menampilkan gambar
 * Retrofit 2 untuk komunikasi dengan API
-* Fitur share movie
-* Fitur Movie Now Playing, Upcoming, Favourite
 
 
 ```java
